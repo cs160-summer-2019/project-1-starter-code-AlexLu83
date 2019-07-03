@@ -8,7 +8,7 @@
   background: url(mountain.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-image: url("https://previews.123rf.com/images/farang/farang1305/farang130500042/19595453-idyllic-tropical-beach-in-sunny-day-vertical-panorama.jpg")
+  background-image: url("http://24.media.tumblr.com/tumblr_mb793q3YBi1r93bfso1_500.jpg")
 }
 
 .a {
@@ -25,6 +25,20 @@
   background-image: url("http://oi44.tinypic.com/16lk26q.jpg");
   background-size: 100% 200%;
 }
+.d {
+  grid-area: 4 / 2/ span 3/ span 4;
+  background-image: url("https://d29fhpw069ctt2.cloudfront.net/icon/image/37937/preview.svg");
+  background-size: 100% 100%;
+}
+.e{
+  grid-area: 7/ 3/ span 1/ span 2
+ 
+}
+button{
+    position: relative;
+    left: 15%;
+}
+
 ol {
  
 }
@@ -47,6 +61,6 @@ ol {
   font-size: 30px;
 }
 .description {
-  color: Yellow;
-  font-size: 50px;
+  color: Blue;
+  font-size: 35px;
 }
